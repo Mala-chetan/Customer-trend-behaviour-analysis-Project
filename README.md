@@ -55,7 +55,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](customer_behavior_dashboard.png))
+![Customer Behavior Dashboard](https://github.com/Mala-chetan/Customer-trend-behaviour-analysis-Project/blob/main/Capture.PNG-2.PNG)
 
 
 
