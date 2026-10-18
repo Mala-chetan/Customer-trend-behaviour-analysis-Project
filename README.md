@@ -11,3 +11,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+## Dashboard Preview
+
+![Customer_Shopping_Trend_Analysis Dashboard](https://onedrive.live.com/photos?photosData=%2Fshare%2F5A8C903FBB8DEA79%21sda19ac3e80764e4d904989b01d6bf8e5%3Fithint%3Dphoto%26e%3DDK7hHc%26migratedtospo%3Dtrue)
+
+
+
