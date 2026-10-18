@@ -14,7 +14,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## Dashboard Preview
 
-![Customer_Shopping_Trend_Analysis Dashboard](https://1drv.ms/i/c/5a8c903fbb8dea79/IQDJCFBikXnGSLsJxdO-uhG4AeuZ0cLcm9OUigQLN4OJ8gk?e=gWW1iw)
+![Customer_Shopping_Trend_Analysis Dashboard](https://1drv.ms/i/c/5A8C903FBB8DEA79/AckIUGKRecZIuwnF0766Ebg?e=ThhRo9)
 
 
 
